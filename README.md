@@ -88,17 +88,51 @@ Berlin Entdecken is an app that combines both Travel and Education categories, h
   * => Practice related words
 
 ## Wireframes :frame_with_picture: 
-<img width="103" alt="Screenshot 2025-04-21 at 11 45 10 PM" src="https://github.com/user-attachments/assets/eff6d4bb-7fbc-4df9-bc07-5e08ac4a1f42" />
-<img width="397" alt="Screenshot 2025-04-21 at 11 45 05 PM" src="https://github.com/user-attachments/assets/47aa1d08-7739-4c97-8883-ae6e6a0af2c5" />
-<img width="396" alt="Screenshot 2025-04-21 at 11 44 57 PM" src="https://github.com/user-attachments/assets/aa4559c8-aa82-49e1-8f9d-74588d683642" />
-
+![Screenshot 2025-04-21 at 11.44.57 PM](https://hackmd.io/_uploads/r10ReqEkxe.png)
+![Screenshot 2025-04-21 at 11.45.05 PM](https://hackmd.io/_uploads/rkRCxqEJel.png)
+![Screenshot 2025-04-21 at 11.45.10 PM](https://hackmd.io/_uploads/S10Re9Eygl.png)
 
 ### Digital Wireframes & Mockups
 The Figma design shows a comprehensive set of screens including Main Page with map, Info Pages for landmarks, Practice Pages for grammar, and Saved Words/Profile sections.
 
 ### [Interactive Prototype](https://www.figma.com/proto/z7uRpMMaKIRRTgl9Joaj4w/Berlin-Entdecken-App-?node-id=0-1&t=DgYoT8VIJAq1Cy9d-1)
 
-<img width="397" alt="Screenshot 2025-04-21 at 11 51 45 PM" src="https://github.com/user-attachments/assets/007424f0-fd1f-4c8d-a42b-1db9a26d3cdc" />
-
-Click [here](https://www.figma.com/proto/z7uRpMMaKIRRTgl9Joaj4w/Berlin-Entdecken-App-?node-id=0-1&t=DgYoT8VIJAq1Cy9d-1) to interact with the prototype.
+<iframe
+        style={{ border: "rgba(0, 0, 0, 0)", background: "rgba(0, 0, 0, 0)" }}
+        width="700"
+        height="650"
+        flex-direction="row"
+        align-items="center"
+        background="rgba(0, 0, 0, 0)"
+        src="https://embed.figma.com/proto/z7uRpMMaKIRRTgl9Joaj4w/Berlin-Entdecken-App-?node-id=1-2&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&embed-host=share"
+        allowFullScreen
+      ></iframe>
       
+
+
+# SPRINTS:
+
+### Step 1: Identify Main Features
+**Map View** with Fun Facts or informaiton about the sight in Berlin clicked by the User. (MVP)
+**Practice Mode** Here the user is able to practice the german cases(nominativ, Akkusativ, Dativ) with information about the sights in Berlin. The user can click from the option of right answers and receive feedback and explanations about their response.
+**Library** here the user can save new learned words
+**Daily Challenge** Here, I want to suggest the user challenges in the city and to try to use common phrases. For example, at a restaurant.
+**Word of the Day** I'm hoping to use a German Dictionary API to suggest new words for the user to learn daily.
+**User Profile** Here the user could be able to see their progress [but this will be a stretch feature, not an MVP]
+
+### Step 2: Breakdown into Sprints
+Sprint 1: MVP Done
+- [x] Finish Interactive Figma Design
+- [x] Add a map container
+- [x] Finish all ViewControllers in the Storyboard (TabController, icons, sizes, and constrains)
+- [x] Gather all information (German Cases grammar, information and images of the sights in Berlin).
+- [x] Add all the logic for clicking and seeing the sights in the Map
+- [x] Implement the Practice Mode logic (sentences, explanation of the grammar point, feedback, and image with the conjugation)
+- [x] Add constraints for screen responsiveness
+
+Sprint 2: Extra Features + Improvements
+- [ ] Implement the Library section
+- [ ] Implement an API call for the Word of The Day Logic and connecting it to the main app
+- [ ] Implement the Daily Challenge with the most common phrases in german
+- [ ] Add a User Profile Section
+
