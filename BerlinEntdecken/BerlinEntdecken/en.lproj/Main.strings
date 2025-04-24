@@ -1,0 +1,45 @@
+
+/* Class = "UITabBarItem"; title = "Practice"; ObjectID = "2cv-O0-KCR"; */
+"2cv-O0-KCR.title" = "Practice";
+
+/* Class = "UILabel"; text = "Practice Akkusativ in German."; ObjectID = "GSF-U1-yzy"; */
+"GSF-U1-yzy.text" = "Practice Akkusativ in German.";
+
+/* Class = "UILabel"; text = "“Buy your entrance tickets in advance”"; ObjectID = "IK6-kg-jfO"; */
+"IK6-kg-jfO.text" = "“Buy your entrance tickets in advance”";
+
+/* Class = "UILabel"; text = "Daily Challenge!"; ObjectID = "Im3-K1-KOQ"; */
+"Im3-K1-KOQ.text" = "Daily Challenge!";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "Mhj-ds-Gpn"; */
+"Mhj-ds-Gpn.title" = "Map";
+
+/* Class = "UILabel"; text = "“Kaufen Sie die Eintrittskarten im Voraus”"; ObjectID = "ROL-QJ-0ad"; */
+"ROL-QJ-0ad.text" = "“Kaufen Sie die Eintrittskarten im Voraus”";
+
+/* Class = "UILabel"; text = "Word of the Day"; ObjectID = "dhS-a1-G6T"; */
+"dhS-a1-G6T.text" = "Word of the Day";
+
+/* Class = "UIButton"; configuration.title = "Start Practice"; ObjectID = "e8I-RB-GYi"; */
+"e8I-RB-GYi.configuration.title" = "Start Practice";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e8I-RB-GYi"; */
+"e8I-RB-GYi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Der Eintritt in den Reichstag ist kostenlos”"; ObjectID = "kep-To-Sc2"; */
+"kep-To-Sc2.text" = "Der Eintritt in den Reichstag ist kostenlos”";
+
+/* Class = "UITabBarItem"; title = "Library"; ObjectID = "meW-0o-quA"; */
+"meW-0o-quA.title" = "Library";
+
+/* Class = "UILabel"; text = "Eintrittskarte"; ObjectID = "r2H-Km-VQ5"; */
+"r2H-Km-VQ5.text" = "Eintrittskarte";
+
+/* Class = "UILabel"; text = "BerlinEntdecken!"; ObjectID = "wfm-vZ-IvV"; */
+"wfm-vZ-IvV.text" = "BerlinEntdecken!";
+
+/* Class = "UIButton"; configuration.title = "Save Word"; ObjectID = "wwC-nZ-q3S"; */
+"wwC-nZ-q3S.configuration.title" = "Save Word";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wwC-nZ-q3S"; */
+"wwC-nZ-q3S.normalTitle" = "Button";
