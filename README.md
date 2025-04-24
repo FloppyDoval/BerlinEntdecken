@@ -1,4 +1,13 @@
 # Berlin Entdecken
+#### Please view the HackMD docs in the links below to better view the images and Interactive Figma
+[Figma](https://www.figma.com/design/z7uRpMMaKIRRTgl9Joaj4w/Berlin-Entdecken-App-?node-id=1-2&t=FoLnpb6OkPqO048f-1)
+[App SPEC](https://hackmd.io/1y-gpvuoTB-hBzIh4KhXVQ)
+[README](https://hackmd.io/2V4h4Z_NTCOtHFWE5bcU_A)
+
+
+<a href="https://www.youtube.com/watch?v=XvoN4hqFTgw3DWP5">
+  <img src="https://img.youtube.com/vi/XvoN4hqFTgw3DWP5/0.jpg" alt="Florencia Doval" width="480" height="360" border="10" />
+</a>
 
 ## Table of Contents
 1. [Overview](https://hackmd.io/2V4h4Z_NTCOtHFWE5bcU_A#Description)
