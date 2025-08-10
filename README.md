@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/3aace3e4-cc72-4a9a-97d2-03a27550bac6
 3. [Wireframes](https://hackmd.io/2V4h4Z_NTCOtHFWE5bcU_A#Wireframes)
 4. [Schema](https://hackmd.io/2V4h4Z_NTCOtHFWE5bcU_A#Schema)
 
-## Overview :linked_paperclips: 
+## Overview 📎 
 
 ### Description
 Berlin Entdecken is an app that combines both Travel and Education categories, helping tourists learn common German grammar rules and phrases needed in and around famous attractions in Berlin-Mitte. The app allows users to discover landmarks in Berlin while simultaneously learning practical German language skills, focusing on Nominativ, Akkusativ, and Dativ cases through interactive exercises tied to specific locations.
